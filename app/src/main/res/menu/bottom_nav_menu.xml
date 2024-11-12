@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Grocery List Menu Item -->
+    <item
+        android:id="@+id/navigation_grocery_list"
+        android:icon="@drawable/ic_grocery_list"
+        android:title="@string/title_grocery_list" />
+
+    <!-- Recipes Menu Item -->
+    <item
+        android:id="@+id/navigation_recipes"
+        android:icon="@drawable/ic_recipes"
+        android:title="@string/title_recipes" />
+
+    <!-- Settings Menu Item -->
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>
